@@ -1,0 +1,13 @@
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\bin\Debug\LINQ class work.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\bin\Debug\LINQ class work.exe
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\bin\Debug\LINQ class work.pdb
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\bin\Debug\EntityFramework.dll
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\bin\Debug\EntityFramework.xml
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\obj\Debug\LINQ class work.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\obj\Debug\LINQ class work.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\obj\Debug\LINQ class work.csproj.CopyComplete
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\obj\Debug\LINQ class work.exe
+C:\Users\ДжабашевН.CORP\source\repos\LINQ class work\LINQ class work\obj\Debug\LINQ class work.pdb
